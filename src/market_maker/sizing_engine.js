@@ -71,5 +71,3 @@ module.exports = {
   getCeilingPrice,
   calculateQuarterKelly
 };
-
-
