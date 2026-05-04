@@ -1,4 +1,5 @@
 /**
+ 
  * SMART EDGE IMPROVER ORCHESTRATOR (7D)
  * Coordinates scoring, filtering, and edge improvement.
  */
@@ -8,6 +9,7 @@ const { applyFilters } = require('./filter_engine');
 const { suggestImprovements } = require('./edge_improver');
 
 /**
+
  * Processes a swarm result to evaluate and improve its edge.
  *
  * @param {Object} swarmResult - Output from runSwarm()
